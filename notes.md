@@ -6,7 +6,9 @@ class: middle, center
 ---
 
 # Usage Modeling for Interactive Projects
-Tom Auger, Zeitguys
+## Tom Auger, Zeitguys
+
+Slides on [GitHub](https://github.com/TomAuger/UsageModelingWorkshop/blob/master/notes.md), written in [Markdown](https://daringfireball.net/projects/markdown/), presented with [Remark.js](https://github.com/gnab/remark)
 
 ---
 
@@ -94,6 +96,14 @@ Sometimes they map, and sometimes they don't.
 
 ---
 --- 
+
+## When to Model
+
+* Preferably before scope is finalized
+* Preferably before RFP!
+* When scope is vague, requirements hazy, MVP is required
+
+---
 
 ##  UMW Scoping Workshop Methodology
 
